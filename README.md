@@ -1,16 +1,39 @@
-## Hi there 👋
+<h2 align="center"> ✨ Welcome ✨</h2>
+<p align="center">
+  <a href="#" target="_blank" rel="noreferrer"><img src="recursos/Banner.gif" alt="my banner"></a>
+</p>
+<h2 align="center"> I'm a Computer Engineering student and a Programming Technologist. </h2>
 
-<!--
-**MallyMartinez/MallyMartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "If you persevere, you'll succeed."
 
-Here are some ideas to get you started:
+I am currently completing my degree in Computer Engineering at the University of Guadalajara 🦁.
+<br>
+<br>Looking for new experiences as trainee or itern positions to learn and develop my career as software developer, UX/UI and web developer. I am really interested in the front and back end implementation, user experience y code creation.
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Competences  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%236F4F28.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white)
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![FIGMA](https://img.shields.io/badge/Figma-6A0D91?style=for-the-badge&logo=figma&logoColor=white)
+![Gitkraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## 📈 GitHub Stats & ⌨️ Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MallyMartinez&show_icons=true&theme=tokyonight" alt="MallyMartinez's GitHub stats" style="margin-right: 30px" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MallyMartinez&layout=compact&theme=tokyonight" alt="Top Langs" width="30.5%" />
+</p>
+
+
