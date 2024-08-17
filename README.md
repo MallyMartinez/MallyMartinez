@@ -24,7 +24,6 @@ I am currently completing my degree in Computer Engineering at the University of
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white)
-
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/Figma-6A0D91?style=for-the-badge&logo=figma&logoColor=white)
 ![Gitkraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)
@@ -32,8 +31,8 @@ I am currently completing my degree in Computer Engineering at the University of
 
 ## 📈 GitHub Stats & ⌨️ Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MallyMartinez&show_icons=true&theme=tokyonight" alt="MallyMartinez's GitHub stats" style="margin-right: 30px" width="40%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MallyMartinez&layout=compact&theme=tokyonight" alt="Top Langs" width="30.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MallyMartinez&show_icons=true&theme=tokyonight" alt="MallyMartinez's GitHub stats" style="margin-right: 30px" width="53%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MallyMartinez&layout=compact&theme=tokyonight" alt="Top Langs" width="40.5%" />
 </p>
 
 
