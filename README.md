@@ -29,10 +29,13 @@ I am currently completing my degree in Computer Engineering at the University of
 ![Gitkraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 📈 GitHub Stats & ⌨️ Languages
-<p align="center">
+## 📈 GitHub Stats
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MallyMartinez&show_icons=true&theme=tokyonight" alt="MallyMartinez's GitHub stats" style="margin-right: 30px" width="53%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MallyMartinez&layout=compact&theme=tokyonight" alt="Top Langs" width="40.5%" />
 </p>
 
+## ⌨️ Languages
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MallyMartinez&layout=compact&theme=tokyonight" alt="Top Langs" width="40.5%" />
+</p>
 
