@@ -11,6 +11,10 @@ I am currently completing my degree in Computer Engineering at the University of
 <br>Looking for new experiences as trainee or itern positions to learn and develop my career as software developer, UX/UI and web developer. I am really interested in the front and back end implementation, user experience y code creation.
 <br>
 
+## 🗣️ Languages
+- **Spanish**: Native 🏅
+- **English**: Basic Intermediate 🌱
+
 ## 💼 Competences  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%236F4F28.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -28,6 +32,7 @@ I am currently completing my degree in Computer Engineering at the University of
 ![FIGMA](https://img.shields.io/badge/Figma-6A0D91?style=for-the-badge&logo=figma&logoColor=white)
 ![Gitkraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 📈 GitHub Stats
 <p align="left">
