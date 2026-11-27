@@ -2,18 +2,19 @@
 <p align="center">
   <a href="#" target="_blank" rel="noreferrer"><img src="recursos/Banner.gif" alt="my banner"></a>
 </p>
-<h2 align="center"> I'm a Computer Engineering student and a Programming Technologist. </h2>
 
-> "If you persevere, you'll succeed."
+> <p align="center"> "Code, design, and problem-solving."
 
-I am currently completing my degree in Computer Engineering at the University of Guadalajara 🦁.
+<h2 align="left"> ✨ About Me </h2>
+
+**Computer Engineer** graduate from the University of Guadalajara (CUCEI) 🦁, with hands-on experience in frontend development and UX/UI design.
 <br>
-<br>Looking for new experiences as trainee or itern positions to learn and develop my career as software developer, UX/UI and web developer. I am really interested in the front and back end implementation, user experience y code creation.
+<br>I build web applications, create intuitive user interfaces, and turn ideas into functional digital experiences. I have worked on academic and professional projects involving frontend development, API integration, database management, and interface design.
 <br>
 
 ## 🗣️ Languages
 - **Spanish**: Native 🏅
-- **English**: Basic Intermediate 🌱
+- **English**: Intermediate 🌱
 
 ## 💼 Competences  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
