@@ -13,7 +13,7 @@
 <br>
 
 ## 🗣️ Languages
-- **Spanish**: Native 🏅
+- **Spanish**: Native ❤️
 - **English**: Intermediate (B1) 🌱
 
 ## 💼 Technologies & Tools  
@@ -39,6 +39,18 @@
 ![Gitkraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+
+## 🏅 Certifications & Courses
+
+- **UI Design: Visual Design and Interface Design with Figma 2026** — Udemy | October 2026
+  [View Certificate](https://www.udemy.com/certificate/UC-f64a209d-2585-4a0e-80ca-eaa43ffd179b/)
+
+- **Design thinking and Prototyping 2024-A** — Integration Laboratory Technological Development and Innovation (iLabTDI) | February 2024
+  [View Certificate](https://drive.google.com/file/d/13OQZHQvwi-eGt0zsvLNUVPE4FQ43fva_/view?usp=sharing)
+
+- **Foundations of Git** — Gitkraken  | August 2024
+  [View Certificate](https://learn.gitkraken.com/certificates/bgh7vy0jyp)
 
 
 ## 📈 GitHub Stats
