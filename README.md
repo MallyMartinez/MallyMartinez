@@ -14,7 +14,7 @@
 
 ## 🗣️ Languages
 - **Spanish**: Native 🏅
-- **English**: Intermediate 🌱
+- **English**: Intermediate (B1) 🌱
 
 ## 💼 Competences  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -45,7 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MallyMartinez&show_icons=true&theme=tokyonight" alt="MallyMartinez's GitHub stats" style="margin-right: 30px" width="53%" />
 </p>
 
-## ⌨️ Languages
+## ⌨️ Most Used Languages
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MallyMartinez&layout=compact&theme=tokyonight" alt="Top Langs" width="40.5%" />
 </p>
